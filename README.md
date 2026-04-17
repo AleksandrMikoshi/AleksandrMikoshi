@@ -13,49 +13,38 @@ Infrastructure Engineer with **8+ years of experience** in designing, automating
 I focus on building reliable infrastructure, reducing downtime risks, and eliminating manual operations through automation.
 
 🔹 Core areas:
-
-* Identity & Access Management (IAM)
-* High Availability Infrastructure
-* Infrastructure Automation
-* Backup & Disaster Recovery
-* Monitoring & Observability
-
+```text
+Identity & Access Management (IAM)
+High Availability Infrastructure | Infrastructure Automation
+Backup & Disaster Recovery | Monitoring & Observability
+```
 ---
 
 ## 🧠 Core Skills
 
 ### 🏗️ Infrastructure
-
-* Windows Server / Linux
-* Active Directory (700+ users)
-* DNS, RDS, Failover Clusters
-* HAProxy, DRBD
-
+```text
+Windows Server / Linux | Active Directory (700+ users)
+DNS | RDS | Failover Clusters | HAProxy | DRBD
+```
 ### 🔐 Security & IAM
-
-* PKI (Microsoft Certificate Services)
-* Keycloak
-* Centralized Access Management
-* GPO, JEA
-
+```text
+PKI (Microsoft Certificate Services) | Keycloak
+Centralized Access Management | GPO | JEA
+```
 ### ⚙️ DevOps & Automation
-
-* PowerShell, Bash, Python
-* Ansible
-* CI/CD
-* Infrastructure as Code
-
+```text
+PowerShell | Bash | Python | Ansible
+CI/CD | Infrastructure as Code
+```
 ### 📦 Containers & Cloud
-
-* Docker
-* Kubernetes (operations & architecture participation)
-
+```text
+Docker | Kubernetes (operations & architecture participation)
+```
 ### 📊 Monitoring
-
-* Prometheus
-* Grafana
-* Alertmanager
-
+```text
+Prometheus | Grafana | Alertmanager
+```
 ---
 
 ## 🛠️ Tech Stack
@@ -79,15 +68,6 @@ DRBD | PostgreSQL | HAProxy
 
 ---
 
-## 📚 Education & Certifications
-
-🎓 Kurgan Technological College
-📜 Microsoft 10961 / 10962 (PowerShell Automation)
-📜 Red Hat System Administration I, II
-📜 Managed Greenplum
-
----
-
 ## 🤝 Contact
 
 📧 Email: [aleksandr.mikoshi@gmail.com](mailto:aleksandr.mikoshi@gmail.com)
@@ -98,8 +78,8 @@ DRBD | PostgreSQL | HAProxy
 
 I like building systems that:
 
-* don’t crash 💪
-* scale easily 📈
-* and don’t require manual “magic fixes” 🧙‍♂️
+* don’t crash
+* scale easily
+* and don’t require manual “magic fixes”
 
 ---

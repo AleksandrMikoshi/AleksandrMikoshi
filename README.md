@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alexander Mikoshi
 
-💼 Senior System Administrator / Infrastructure Engineer
-📍 Saint Petersburg, Russia
+💼 Senior System Administrator / Infrastructure Engineer  
+📍 Saint Petersburg, Russia  
 📧 [aleksandr.mikoshi@gmail.com](mailto:aleksandr.mikoshi@gmail.com)
 
 ---

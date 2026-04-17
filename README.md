@@ -68,12 +68,6 @@ DRBD | PostgreSQL | HAProxy
 
 ---
 
-## 🤝 Contact
-
-📧 Email: [aleksandr.mikoshi@gmail.com](mailto:aleksandr.mikoshi@gmail.com)
-
----
-
 ## ⚡ Fun Fact
 
 I like building systems that:
